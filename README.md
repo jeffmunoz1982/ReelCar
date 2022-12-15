@@ -124,17 +124,23 @@ La implementación fue exitosa, aca se muestra el paso a paso:
 
 1.
 ![image](https://user-images.githubusercontent.com/120538000/207748584-2676bd9d-8af5-4261-b2c6-b14347cd15bd.png)
+
 2.
 ![image](https://user-images.githubusercontent.com/120538000/207748492-500a2dc4-3f93-4d35-84ea-20c68ae75d2e.png)
+
 3.
 ![image](https://user-images.githubusercontent.com/120538000/207748730-85ea326a-28c0-4050-9e57-21dd1b790dec.png)
+
 4.
 ![image](https://user-images.githubusercontent.com/120538000/207748801-7601491e-c748-4537-892b-b05210e13e66.png)
+
 5.
 ![image](https://user-images.githubusercontent.com/120538000/207748866-cdecff75-5da2-4946-87cb-845c380f9a0c.png)
+
 6.
 ![image](https://user-images.githubusercontent.com/120538000/207748934-e6fbe2a7-7bc3-4583-845b-d91d7e389a53.png)
-7.
+
+7. Despliegue exitoso en Beanstalk AWS
 ![image](https://user-images.githubusercontent.com/120538000/207750436-97ac61bc-1aca-4ee6-b90c-3aabfbd9ff8d.png)
 
 
